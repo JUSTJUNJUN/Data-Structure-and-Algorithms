@@ -1,11 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /**
  * @author xuehaojun
  * @brief 统计n以内的素数个数，素数指的是只能被1和自身整除的自然数，0、1除外
  * @date 2022-11-09
  */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 /* 普通循环算法 */
 int is_prime(int x)
